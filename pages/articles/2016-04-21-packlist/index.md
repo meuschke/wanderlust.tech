@@ -28,7 +28,7 @@ Das etwas kleinere Fach befindet sich unten. Zusätzlich bieten einige kleine F�
 
 
 <div class='row center-xs'>
-<div class='col-xs-12 col-md-6'>
+<div class='col-xs-12 col-md-5'>
 <img src='./backpack.jpg' alt='Garkueche in Bangkok - Bohnen, Reis, Tofu' title='' />
 </div>
 </div>
@@ -44,7 +44,7 @@ Wer minimaler reisen möchte dem empfehle ich den <a rel="nofollow" href="http:/
 Ein zweiter Rucksack oder/und ein Jutebeutel sollte man für Tagesausflüge oder Supermarkteinkäufe mitnehmen.
 Ich habe einen Jutebeutel den man auch als Rucksack nutzen kann und eine schwarzen einfachen Rucksack von Topman der sich klein zusammenfalten lässt.
 <div class='row center-xs'>
-<div class='col-xs-12'>
+<div class='col-xs-12 col-md-5'>
 <img src='./daybag.jpg' alt='DayPack - Topman' title='' />
 </div>
 </div>
@@ -57,7 +57,7 @@ Ich habe mich für die 5L variante entschieden.
 
 
 <div class='row center-xs'>
-<div class='col-xs-12 col-md-6'>
+<div class='col-xs-12 col-md-5'>
 <img src='./pacsafe.jpg' alt='Pacsafe' title='' />
 </div>
 </div>

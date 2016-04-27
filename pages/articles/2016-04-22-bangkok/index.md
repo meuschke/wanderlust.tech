@@ -44,7 +44,7 @@ Scheut euch auch nicht einen neues Tuk-Tuk anzuhalten, wenn der erste Fahrer nic
 * Ein Thai hat uns gesagt, dass man einfach Phæng Phai sagt, wenn einem der Preis zu teuer. Danach sagt man einen neuen Preis.
 
 <div class='row center-xs'>
-<div class='col-xs-12'>
+<div class='col-xs-12 col-md-6'>
 <img src='./tuk-tuk.jpg' alt='Tuk-Tuk in Bangkok' title='' />
 </div>
 </div>
@@ -68,7 +68,7 @@ Das Gute ist ihr braucht kein Bargeld und müsst dem Fahrer nicht stunden lang e
 
 
 <div class='row center-xs'>
-<div class='col-xs-12'>
+<div class='col-xs-12 col-md-5'>
 <img src='./uber-app.jpg' alt='Uber in Bangkok' title='' height='400' />
 </div>
 </div>
@@ -113,10 +113,10 @@ Die besten findet man angeblich in Chinatown.
 
 <h5>Garküche an der Soi Ram Butri</h5>
 <div class='row center-sm'>
-<div class='col-xs-12 col-md-6 '>
+<div class='col-xs-12 col-md-5 '>
 <img src='./garkueche.jpg' alt='Garkueche in Bangkok - Bohnen, Reis, Blumekohl' title='' />
 </div>
-<div class='col-xs-12 col-md-6'>
+<div class='col-xs-12 col-md-5'>
 <img src='./garkueche2.jpg' alt='Garkueche in Bangkok - Bohnen, Reis, Tofu' title='' />
 </div>
 </div>
@@ -128,10 +128,10 @@ Besichtigt man den Wat Arun, lohnt es sich ein paar Ecken weiter im Lung zu esse
 Dort gibt es eine fantastische Noodle Soup!
 
 <div class='row center-sm'>
-<div class='col-xs-12 col-md-6 '>
+<div class='col-xs-12 col-md-5 '>
 <img src='./lung.jpg' alt='Garkueche in Bangkok - Bohnen, Reis, Blumekohl' title='' />
 </div>
-<div class='col-xs-12 col-md-6'>
+<div class='col-xs-12 col-md-5'>
 <img src='./thai-essen.jpg' alt='Garkueche in Bangkok - Bohnen, Reis, Tofu' title='' />
 </div>
 </div>
