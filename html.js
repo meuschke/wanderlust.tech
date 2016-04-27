@@ -35,7 +35,7 @@ module.exports = React.createClass({
       <meta property="og:url" content={meta.canonical} />
       <meta property="og:image" content={meta.image}  />
       <link rel="canonical" href={meta.canonical} />
-      <link rel="shortcut icon" href={this.props.favicon} />
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       {cssLink}
     </head>
     <body>
