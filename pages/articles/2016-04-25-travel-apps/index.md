@@ -14,64 +14,69 @@ Digitale Services und Apps erleichtern uns das Leben. Egal ob man bloß mal schn
 
 ### <u>From A to B</u>
 
-##### Skyscanner
+##### [Skyscanner](http://www.skyscanner.de/)
 
 Mit Skyscanner kann man unglaublich gut Flüge vergleichen. Der Vorteil dieser Plattform ist, dass man kein Zielort angeben muss und somit alle möglichen Ort vergleichen kann. Dazu kann man auch ganze Monate auswählen und Skyscanner zeigt einen den günstigsten Preis.
 
 In der Regel bucht man 1 Monat im Voraus am günstigsten. Flüge am Mittwoch sind meist preiswerter als am Wochenende.
 
-##### Uber
+##### [Uber](https://www.uber.com/)
 
 I ♥ Uber! Mit der App kann man ein Taxi anfordern bezahlt wird das ganze Bargeldlos über Kreditkarte.
 Man kann den Zielort eingeben was besonders im Ausland sehr praktisch ist, da ich dem Fahrer nicht erklären muss wo ich hin will.
 
 ### <u>Unterkunft</u>
 
-##### Airbnb
+##### [Airbnb](https://www.airbnb.de/)
 
 Airbnb nutze ich für längere Aufenthalte. Bucht man Unterkünfte für 1 Monat bekommt man meist Rabatt.
 
 Tipp: <a href="https://www.airbnb.de/c/tonim159?s=8">Hier gibt es kostenlos 31€ Reiseguthaben!</a>
 
-##### Booking
+##### [Booking](https://www.booking.com)
 
 Booking nutze ich für kurze Aufenthalte in Hotels oder Hostels.
 Tipp: Bucht man 10 mal über die Plattform wird man genius Mitglied und erhält super Rabatte.
 
-##### Couchsurfing
+##### [Couchsurfing](http://couchsurfing.com)
 
 Couchsurfing ist fantastisch, wenn man mal Tipps von Locals bekommen möchte und das Geld knapp ist.
 
 
-##### Hostelworld
+##### [Hostelworld](http://hostelworld.com)
 
 Die besten Hostels findet man auf Hostelworld.
 
 
 ### <u>Places</u>
 
-##### Foursquare
+##### [Foursquare](http://Foursquare.com)
 
 Mein täglicher Begleiter auf der Suche nach Restaurants, Cafés oder anderen Orten.
 
-##### Work Hard Anywhere
+##### [Work Hard Anywhere](http://workhardanywhere.com)
 
 Wer einen Platz zum Arbeiten sucht wird mit dieser App fündig.
 
 Tipp: Auch wenn der Macbook Akku mal wieder leer ist kann man hier nach Cafés mit Steckdosen filtern
 
-##### Speedtest 
+##### [Speedtest](https://play.google.com/store/apps/details?id=nl.npsoftware.speedster)
 
 Brauch man mal schnelles WIFI in der Umgebung ist diese App die Rettung.
 
-##### Nomadlist
+##### [Nomadlist](https://nomadlist.io)
 
 Unklar wo es als nächstes hingehen soll?
 Mit Nomadlist kann man die besten Städte für Digitale Nomaden finden.
 
-##### Wikitravel
+##### [Wikitravel](http://wikitravel.org)
 
 Das Wikipedia für Reisende! Man findet alle möglichen Informationen über Städte und Länder.
+
+##### <a href="http://www.sleepinginairports.net/">Sleepinginairports</a>
+
+Wenn der Aufenthalt am Flughafen doch mal wieder länger als geplant ist.
+Diese Seite hilft dir Schließfächer, Restaurants oder andere Orte am Flughafen zu finden.
 
 ### <u>Learning & News</u>
 
@@ -80,7 +85,7 @@ Das Wikipedia für Reisende! Man findet alle möglichen Informationen über Stä
 Will man zB. sein Spanisch auffrischen oder neu erlernen hilft Duolingo.
 Die kostenlose Sprach lern App nutzt super Methoden damit das neu erlernte auch im Gedächtnis bleibt.
 
-##### Medium
+##### [Medium](https://medium.com)
 
 Zum Kaffee am morgen gehört nicht die Zeitung sondern Medium!
 

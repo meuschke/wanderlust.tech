@@ -28,6 +28,10 @@ Deshalb möchte ich auf diesem Blog einige meiner gesammelten Erfahrungen teilen
 <iframe src="http://www.intagme.com/in/?u=dG9uaW1ldXxpbnwxMDB8NXwyfHx5ZXN8NXx1bmRlZmluZWR8eWVz" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:575px; height: 230px" ></iframe>
 </div>
 
+###### Newsletter
+
+<a href="http://tech.us13.list-manage.com/subscribe?u=5c9ee910a162ad82d9717de48&id=a9ca9d8016" target="_blank">Hier kannst du dich für den Newsletter anmelden um Neuigkeiten per E-Mail zu bekommen.</a>
+
 
 ###### Connect
 

@@ -10,12 +10,16 @@ console.log(imageUrl)
 
 module.exports = React.createClass({
   getMonthName(date) {
+    const locale = this.props.route.page.data.locale
     const articleDate = new Date(date)
     const month = articleDate.getMonth()
     const day = articleDate.getDate()
     const year = articleDate.getFullYear()
-    const months = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember']
-    return day + ' ' + months[month] + ' ' + year
+    const months = {
+      "DE": ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
+      "EN": ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    }
+    return day + ' ' + months[locale][month] + ' ' + year
   },
   getArticles() {
     const today = new Date()

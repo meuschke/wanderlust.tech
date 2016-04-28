@@ -13,7 +13,8 @@ export default class BlogIndex extends React.Component {
     const meta = {
       title: "Wanderlust - A blog about digital nomad lifestyle",
       description: "Digitale Nomade sind Menschen die ortsunabhängig arbeiten und dabei die Welt bereisen.",
-      canonical: 'https://wanderlust.tech/'
+      canonical: 'https://wanderlust.tech/',
+      locale: 'de'
     }
     this.props.route.page.data = {
       locale: "DE"
