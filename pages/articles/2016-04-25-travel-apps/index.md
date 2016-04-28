@@ -16,7 +16,7 @@ Digitale Services und Apps erleichtern uns das Leben. Egal ob man bloß mal schn
 
 ##### [Skyscanner](http://www.skyscanner.de/)
 
-Mit Skyscanner kann man unglaublich gut Flüge vergleichen. Der Vorteil dieser Plattform ist, dass man kein Zielort angeben muss und somit alle möglichen Ort vergleichen kann. Dazu kann man auch ganze Monate auswählen und Skyscanner zeigt einen den günstigsten Preis.
+Mit Skyscanner kann man unglaublich gut Flüge vergleichen. Der Vorteil dieser Plattform ist, dass man keinen Zielort angeben muss und somit alle möglichen Orte vergleichen kann. Dazu kann man auch ganze Monate auswählen und Skyscanner zeigt einen den günstigsten Preis an.
 
 In der Regel bucht man 1 Monat im Voraus am günstigsten. Flüge am Mittwoch sind meist preiswerter als am Wochenende.
 
