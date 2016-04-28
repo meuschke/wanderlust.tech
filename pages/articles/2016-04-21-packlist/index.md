@@ -43,6 +43,7 @@ Wer minimaler reisen möchte dem empfehle ich den <a rel="nofollow" href="http:/
 
 Ein zweiter Rucksack oder/und ein Jutebeutel sollte man für Tagesausflüge oder Supermarkteinkäufe mitnehmen.
 Ich habe einen Jutebeutel den man auch als Rucksack nutzen kann und eine schwarzen einfachen Rucksack von Topman der sich klein zusammenfalten lässt.
+
 <div class='row center-xs'>
 <div class='col-xs-12 col-md-5'>
 <img src='./daybag.jpg' alt='DayPack - Topman' title='' />
