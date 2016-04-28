@@ -16,7 +16,7 @@ Digitale Services und Apps erleichtern uns das Leben. Egal ob man bloß mal schn
 
 ##### [Skyscanner](http://www.skyscanner.de/)
 
-Mit Skyscanner kann man unglaublich gut Flüge vergleichen. Der Vorteil dieser Plattform ist, dass man keinen Zielort angeben muss und somit alle möglichen Orte vergleichen kann. Dazu kann man auch ganze Monate auswählen und Skyscanner zeigt einen den günstigsten Preis an.
+Mit Skyscanner kann man unglaublich gut Flüge vergleichen. Der Vorteil dieser Plattform ist, dass man keinen Zielort angeben muss und somit alle möglichen Orte vergleichen kann. Dazu kann man auch ganze Monate auswählen und Skyscanner zeigt einem den günstigsten Preis an.
 
 In der Regel bucht man 1 Monat im Voraus am günstigsten. Flüge am Mittwoch sind meist preiswerter als am Wochenende.
 
@@ -36,7 +36,8 @@ Tipp: <a href="https://www.airbnb.de/c/tonim159?s=8">Hier gibt es kostenlos 31�
 ##### [Booking](https://www.booking.com)
 
 Booking nutze ich für kurze Aufenthalte in Hotels oder Hostels.
-Tipp: Bucht man 10 mal über die Plattform wird man genius Mitglied und erhält super Rabatte.
+
+Tipp: Bucht man 10 Mal über die Plattform, wird man genius Mitglied und erhält super Rabatte.
 
 ##### [Couchsurfing](http://couchsurfing.com)
 
@@ -58,7 +59,7 @@ Mein täglicher Begleiter auf der Suche nach Restaurants, Cafés oder anderen Or
 
 Wer einen Platz zum Arbeiten sucht wird mit dieser App fündig.
 
-Tipp: Auch wenn der Macbook Akku mal wieder leer ist kann man hier nach Cafés mit Steckdosen filtern
+Tipp: Auch wenn der Macbook Akku mal wieder leer ist, kann man hier nach Cafés mit Steckdosen filtern.
 
 ##### [Speedtest](https://play.google.com/store/apps/details?id=nl.npsoftware.speedster)
 
@@ -83,7 +84,7 @@ Diese Seite hilft dir Schließfächer, Restaurants oder andere Orte am Flughafen
 ##### Duolingo
 
 Will man zB. sein Spanisch auffrischen oder neu erlernen hilft Duolingo.
-Die kostenlose Sprach lern App nutzt super Methoden damit das neu erlernte auch im Gedächtnis bleibt.
+Die kostenlose Sprachlern-App nutzt super Methoden damit das neu Erlernte auch im Gedächtnis bleibt.
 
 ##### [Medium](https://medium.com)
 
@@ -98,27 +99,28 @@ Der beste News & Rss reader.
 
 ##### Trello
 
- Ob Projektmanagement oder private To-Do listen!
+Ob Projektmanagement oder private To-Do Listen!
 
 
 ##### Google Drive
 
-Der beste Cloud Storage egal ob Dokumente oder das Backup für meinen Mac.
+Der beste Cloud Storage, egal ob Dokumente oder das Backup für meinen Mac.
 
 ##### Dropbox
 
-Als alternative für Google Drive.
+Als Alternative für Google Drive.
 
 ##### CamScanner Pro
 
 Perfekt um unterwegs Dokumente einzuscannen!
+
 Tipp: Mit OCR Erkennung kann man die Dokumente nach Text durchsuchen.
 
 ### <u>Navigation</u>
 
 ##### Google Maps
 
-Sorry aber ich kann keine Karte mehr lesen ...
+Sorry, aber ich kann keine analoge Karte mehr lesen...
 
 ##### Viewranger
 
@@ -137,7 +139,7 @@ Perfekt für Kundenkommunikation.
 
 ##### Skype
 
-Als Alternative für Google Hangouts
+Als Alternative für Google Hangouts.
 
 ##### Slack
 
@@ -162,7 +164,7 @@ Meine Kontobewegungen im Überblick egal ob Paypal oder DKB.
 
 ##### Tripcoin
 
-Reisebudget & Währungsrechner mit Dropbox sync.
+Reisebudget & Währungsrechner mit Dropbox Synchronisation.
 
 
 ### <u>Sonstiges</u>
@@ -176,7 +178,7 @@ Backup Software für Mac (Google Drive, Dropbox, S3, SFTP usw.)
 
 Unendlicher kostenloser Cloud-Speicher für Fotos.
 
-Tipp: Der Auto Awesome Assistent erstellt automatisch Filme, Animation oder Collagen aus euren Bildern.
+Tipp: Der Auto Awesome Assistent erstellt automatisch Filme, Animationen oder Collagen aus euren Bildern.
 
 
 ##### E-Post
@@ -185,7 +187,7 @@ Für 14,99 € im Monat kann man seine Post digitalisieren lassen.
 
 ##### Dict
 
-Offline Übersetzer.
+Der Offline Übersetzer schlechthin.
 
 ##### Google Translate
 
@@ -193,7 +195,7 @@ Online Übersetzter mit Bilderkennung.
 
 ##### Wifi Map & Wifi Finder
 
-Wifi & Passwörter
+Alle öffentlichen Wifi & Passwörter auf einer Karte angezeigt.
 
 ##### SIM WIKI
 
@@ -201,17 +203,17 @@ Wiki über Prepaid SIM Karten in verschiedenen Ländern.
 
 ##### Macpass & MiniKeePass
 
-Passwortmanager
+Kostenloser Open Source Passwortmanager.
 
 ##### Smartsteuer
 
-Online Steuererklärung
+Einfach die nächste Steuererklärung online abgeben.
 
 ### <u>Software Engineering</u>
 
 ##### Dash
 
-Offline API Documentation
+Software für offline API Dokumentation.
 
 ##### iTerm
 
@@ -219,16 +221,16 @@ Der bessere Mac Terminal.
 
 ##### Atom
 
-Code Editor
+Der beste Code Editor den ich kenne.
 
 ##### Oh-My-Zsh
 
-Die besser Bash
+Die besser Bash Shell für den Mac.
 
 ##### Cloudflare
 
-Kostenloses CDN mit https
+Kostenloses CDN mit HTTPS.
 
 ##### Github
 
-Static Site Hosting & Code Versionskontrolle
+Static Site Hosting & Code Versionskontrolle.
