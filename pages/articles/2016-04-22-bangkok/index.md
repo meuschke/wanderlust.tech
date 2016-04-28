@@ -109,6 +109,9 @@ Es lohnt sich eine der Tempelanlagen zu besuchen. Besonders schön sind die Temp
 Der Wat Pho kostet 100 Baht, für die man den 46 m langen liegenden Budda bestaunen kann. Auch der Rest der Tempelanlage ist sehr schön.
 Der Wat Arun liegt auf der anderen Seite des Chao Phraya. Dieser besteht aus einem 79 m hohen Turm, den man schon von der anderen Seite des Flusses gut sieht. Nachts erleuchtet der Tempel in seiner vollen Pracht.
 
+Tipp: Man muss in den Tempelanlagen angemessene Kleidung tragen, das heißt bedeckte Schultern und lange Hose. Diese kann man sich auch für 30 Bath am Tempel ausleihen.
+
+
 
 ### Where to eat?
 
