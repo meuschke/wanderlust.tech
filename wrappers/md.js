@@ -17,7 +17,7 @@ export default class MarkdownWrapper extends React.Component {
       canonical: post.canonical || ('https://wanderlust.tech' + post.path),
       image: post.image,
       type: post.layout,
-      locale: post.locale.toLowerCase()
+      locale: typeof post.locale === 'string' ? post.locale.toLowerCase() : 'DE'
     }
 
     return (
