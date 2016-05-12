@@ -2,8 +2,11 @@ module.exports = {
   modifyWebpackConfig: function (config, env) {
     config.removeLoader('jpg')
     config.loader('jpg', {
-      test: /\.jpg$/,
-      loader: 'url?limit=10000!img?minimize&optimizationLevel=7&progressive=true'
+      test: /\.(jpe?g)$/i,
+      loaders: [
+        'file?hash=sha512&digest=hex&name=[hash].[ext]',
+        'image-webpack?bypassOnDebug&optimizationLevel=7&interlaced=false'
+      ]
     }
     )
     return config
