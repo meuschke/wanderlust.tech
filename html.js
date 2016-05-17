@@ -40,7 +40,7 @@ module.exports = React.createClass({
     </head>
     <body>
       <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
-      <script src={prefixLink('/bundle.js')} />
+      <script async src={prefixLink('/bundle.js')} />
     </body>
     </html>
     )
