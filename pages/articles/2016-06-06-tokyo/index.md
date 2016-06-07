@@ -146,7 +146,7 @@ Ein sehr einfaches aber leckeres Gericht mit viel Reis, gemischtem Essiggemüse 
 
 ###### Kaikaya <a href="http://4sq.com/92UqyE" class="icon fa-foursquare"></a>
 
-Eines der besten Seafood Restaurants in den ich je gewesen bin!
+Eines der besten Seafood Restaurants in dem ich je gewesen bin!
 Pflicht ist Sake und die BBQ Tuna Bones sowie die Sashimiplatte.
 
 <div class='row center-xs'>
