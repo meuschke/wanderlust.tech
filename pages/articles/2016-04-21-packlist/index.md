@@ -4,7 +4,7 @@ date: "2016-04-21"
 layout: post
 path: "/digitale-nomaden-packliste/"
 subheadline: 'Was ist in meinem Backpack?'
-description: "Das habe ich für meine Weltreise und das ortsunabhängiges Arbeiten eingepackt."
+description: "Das habe ich für meine Weltreise und das ortsunabhängige Arbeiten eingepackt."
 image: 'packliste.jpg'
 locale: DE
 ---

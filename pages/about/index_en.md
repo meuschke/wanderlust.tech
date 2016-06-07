@@ -25,10 +25,6 @@ Further I have incredible luck to work location independent as a software engine
 But all that glitters is not gold! Work and travel the same time isn't easy. A not working WIFI in a Hotel is harmless ...
 That's why I want to share my experiences with you.
 
-<div class='center-lg'>
-<iframe src="http://www.intagme.com/in/?u=dG9uaW1ldXxpbnwxMDB8NXwyfHx5ZXN8NXx1bmRlZmluZWR8eWVz" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:575px; height: 230px" ></iframe>
-</div>
-
 
 ###### Connect
 

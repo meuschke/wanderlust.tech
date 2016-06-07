@@ -45,7 +45,7 @@ Scheut euch auch nicht ein neues Tuk-Tuk anzuhalten, wenn der erste Fahrer nicht
 * Ein Thai hat uns gesagt, dass man einfach <i>Phæng Phai (zu teuer)</i> sagt, wenn einem der Preis zu teuer. Danach sagt man einen neuen Preis.
 
 <div class='row center-xs'>
-<div class='col-xs-12 col-md-6'>
+<div class='col-xs-12'>
 <img src='./tuk-tuk.jpg' alt='Tuk-Tuk in Bangkok' title='' />
 </div>
 </div>
@@ -58,7 +58,8 @@ Scheut euch auch nicht ein neues Tuk-Tuk anzuhalten, wenn der erste Fahrer nicht
 Taxis haben ein Taximeter-Schild auf dem Autodach sowie ein gelbes Kennzeichen und eine Lizenz links an der Windschutzscheibe. Einfach Hand raus und los gehts! Achtet darauf, dass das Taxi-Meter auch angemacht wird!
 Der erste Kilometer kostet 35 Bath, danach jeder weitere 5 Baht.
 
-Tipp: Es ist immer gut die Adresse in Thai auf einem Zettel zu haben.
+###### Tipp:
+Es ist immer gut die Adresse in Thai auf einem Zettel zu haben.
 
 
 ##### Uber
@@ -96,7 +97,8 @@ Ich kann die TrueMove H empfehlen. Diese gibt es für 79 THB in jedem 7-eleven u
 Man braucht für die Aktivierung im 7-eleven seinen Reisepass. Für 399 THB gibt es zusätzlich 3 GB Datenvolumen.
 Leider ist es nicht möglich online über trueiservice.com Datenvolumen zu kaufen. Nach Anfrage beim Support hieß es, dass nur thailändische Kreditkarten akzeptiert werden.
 
-Tipp: Zur Aktivierung der Karte muss man die Nummer auf dem Kassenzettel eingeben. Diese beginnt mit einer #.
+###### Tipp:
+Zur Aktivierung der Karte muss man die Nummer auf dem Kassenzettel eingeben. Diese beginnt mit einer #.
 
 Zusätzlich bietet True auch WIFI Hotspots an. Diese sind sehr gut ausgebaut und man findet die Hotspots an fast jeder Ecke.
 Hier gibt es eine Karte: http://www.truewifi.net/wifi/findhotspot.
@@ -109,7 +111,8 @@ Es lohnt sich eine der Tempelanlagen zu besuchen. Besonders schön sind die Temp
 Der Wat Pho kostet 100 Baht, für die man den 46 m langen liegenden Budda bestaunen kann. Auch der Rest der Tempelanlage ist sehr schön.
 Der Wat Arun liegt auf der anderen Seite des Chao Phraya. Dieser besteht aus einem 79 m hohen Turm, den man schon von der anderen Seite des Flusses gut sieht. Nachts erleuchtet der Tempel in seiner vollen Pracht.
 
-Tipp: Man muss in den Tempelanlagen angemessene Kleidung tragen, das heißt bedeckte Schultern und lange Hose. Diese kann man sich auch für 30 Bath am Tempel ausleihen.
+###### Tipp:
+Man muss in den Tempelanlagen angemessene Kleidung tragen, das heißt bedeckte Schultern und lange Hose. Diese kann man sich auch für 30 Bath am Tempel ausleihen.
 
 
 
@@ -161,7 +164,8 @@ Am besten fährt man mit einem Uber dort hin, da man so auch direkt am Eingang i
 Auf dem Rooftop befindet sich ein Restaurant mit Bar. Ein Mojito kostet ca. 500 THB dazu bekommt man zu jedem Getränk Snacks.
 Natürlich solltet man auch in angemessener Kleidung erscheinen!
 
-Tipp: Man sollte nicht zu Berliner Zeiten dort aufkreuzen, da die letzte Runde ca. 00:30 Uhr ist.
+###### Tipp:
+Man sollte nicht zu Berliner Zeiten dort aufkreuzen, da die letzte Runde ca. 00:30 Uhr ist.
 
 
 ### Where to sleep?

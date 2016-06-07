@@ -31,7 +31,7 @@ module.exports = React.createClass({
       page =>  page.data.locale === locale
     )
     .sort(
-      (pageA, pageB) => new Date(pageA.data.date) - new Date(pageB.data.date)
+      (pageA, pageB) => new Date(pageB.data.date) - new Date(pageA.data.date)
     )
     return articles
   },
@@ -50,9 +50,7 @@ module.exports = React.createClass({
 
       pageLinks.push(
         <div key={id} className='col-xs-12
-                        col-sm-6
-                        col-md-6
-                        col-lg-4'>
+                        col-sm-6'>
           <Link to={prefixLink(page.path)}>
           <span className='vignette'>
           <img src={image} alt={page.data.title} />

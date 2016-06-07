@@ -31,7 +31,7 @@ Man kann den Zielort eingeben was besonders im Ausland sehr praktisch ist, da ic
 
 Airbnb nutze ich für längere Aufenthalte. Bucht man Unterkünfte für 1 Monat bekommt man meist Rabatt.
 
-Tipp: <a href="https://www.airbnb.de/c/tonim159?s=8">Hier gibt es kostenlos 31€ Reiseguthaben!</a>
+Tipp: <a href="https://www.airbnb.de/c/tonim159?s=8">Hier gibt es kostenlos 20€ Reiseguthaben!</a>
 
 ##### [Booking](https://www.booking.com)
 

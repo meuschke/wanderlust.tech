@@ -5,7 +5,6 @@ import imageUrl from '../../utils/url.js'
 
 module.exports = React.createClass({
   render() {
-    console.log(this.props)
     const page = this.props.route.page
     const req = require.context("./../../pages", true, /\.jpg$/)
     const title = (this.props.post && this.props.post.title) || 'Wanderlust'
@@ -20,7 +19,7 @@ module.exports = React.createClass({
 
     <section id="banner" style={style}>
       <div className="inner">
-        <h2>{title}</h2>
+        <h1>{title}</h1>
         <p>
           {subheadline}
         </p>

@@ -12,8 +12,8 @@ module.exports = React.createClass({
     <section id="footer">
       <div className="inner icons">
           <div>
-          <a href="https://www.instagram.com/tonimeu/" target="_blank" className="icon fa-instagram"></a>
-          <a className="icon fa-snapchat">&nbsp; tonitaxi</a>
+          <a href="https://www.instagram.com/tonimeu/" target="_blank" className="icon fa-instagram" title="tonimeu"></a>
+          <a href="https://www.snapchat.com/add/tonitaxi" target="_blank" className="icon fa-snapchat" title="tonitaxi"></a>
           </div>
       </div>
     </section>
