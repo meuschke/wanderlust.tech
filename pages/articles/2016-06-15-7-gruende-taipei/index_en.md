@@ -31,6 +31,16 @@ People leave their phones on the table to save their seat in a Starbucks.
 As a german citizen you can stay in Taiwan up to 30 days without a need of visa.
 
 
+#### 4. Cheap living cost
+
+Taiwan is not that cheap. But still cheap enought.
+You can get luxury or live cheap but good.
+
+Airbnb: 18 € per day
+Dumplings: 2,20 €
+
+Exclusive Bar (Last Word Drink): 12€  
+
 #### 5. Many Coworking Spaces
 
 I think the next big ideas will come from Taipei insted of Vally
@@ -39,8 +49,12 @@ I meet a lot of good people with interesting ideas.
 At <a href="https://nomadlist.com/taipei-taiwan/places-to-work">Nomadlist</a> you find some of those Co-Working spaces.
 
 
+#### 6. Produktivität
 
-#### 6. Cheapest connection to Southeast Asia
+In compairision to Bali or Thailand you can focus on work because you do not have distractions like beach or nature.
+
+
+#### 7. Cheapest connection to Southeast Asia
 
 You can get a cheap flight mostly less then 100 € to the most countries in Asia.
 
