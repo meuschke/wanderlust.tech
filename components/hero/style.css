@@ -33,6 +33,7 @@
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
+			margin: auto 30px;
 		}
 
 			#banner h1:before, #banner h1:after {
@@ -196,4 +197,12 @@
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
+	}
+
+	#banner .wanderlust-logo {
+
+			display: block;
+			margin: 10px auto;
+			width: 150px;
+
 	}
