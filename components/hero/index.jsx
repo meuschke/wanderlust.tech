@@ -10,7 +10,7 @@ module.exports = React.createClass({
     const req = require.context("./../../pages", true, /\.jpg$/)
     const title = (this.props.post && this.props.post.title) || 'Wanderlust'
     const subheadline = (this.props.post && this.props.post.subheadline) || ''
-    const logoComponent = title === 'Wanderlust' ? <img src={logo} className="wanderlust-logo"/> : null
+    const logoComponent = title === 'Wanderlust' ? <img src={'/' + logo} className="wanderlust-logo"/> : null
     var style = {}
     if(this.props.post && this.props.post.image){
       const image = imageUrl.absolutePath(req('./' + page.file.dirname + "/" + this.props.post.image))
